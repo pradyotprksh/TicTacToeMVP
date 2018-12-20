@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToeMVP</string>
+    <string name="reset">RESET</string>
+    <string name="draw_value">It\'s a draw. Click To Play Again.</string>
+    <string name="x_winner_val">X is the winner</string>
+    <string name="o_winner_val">O is the winner</string>
+    <string name="reset_button">Reset</string>
+</resources>
